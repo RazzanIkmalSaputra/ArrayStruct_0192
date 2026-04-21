@@ -1,16 +1,9 @@
 
+    cout << "\t nama desa: ";
+    cin >> mhs.alamat.desa;
+    cout << "\t nama kota: ";
+    cin >> mhs.alamat.kota;
 
-struct DetailAlamat {
-    string desa; //village
-    string kota;//city
-};
-
-struct mahasiswa {
-    string NIM;
-    string nama;
-    DetailAlamat alamat;
-    int umur;
-};
 
 
 
