@@ -1,12 +1,12 @@
+#include <iostream>
+using namespace std;
 
-    cout << "nomor Mahasiswa : ";
-    cin >> mhs.NIM;
-    cout << "Nama Mahasiswa : ";
-    cin >> mhs.nama;
-    cout << "Alamat Mahasiswa : ";
-    cin >> mhs.alamat;
-    cout << "Umur Mahasiswa : ";
-    cin >> mhs.umur;
+struct mahasiswa {
+    string NIM;
+    string nama;
+    string alamat;
+    int umur;
+};
 
 
 
