@@ -1,7 +1,4 @@
 
-struct mahasiswa {
+    cin >> mhs.alamat.desa;
 
-    DetailAlamat alamat;
-
-}
 
