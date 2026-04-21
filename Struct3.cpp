@@ -1,8 +1,5 @@
 
-    getline(cin, mhs.NIM);
-
-    getline(cin, mhs.nama);
-
+    cin >> mhs.alamat.desa;
 
 
 
