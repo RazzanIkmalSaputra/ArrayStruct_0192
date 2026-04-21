@@ -1,10 +1,6 @@
 
-    cout << "\t nama desa: ";
-    cin >> mhs.alamat.desa;
-    cout << "\t nama kota: ";
-    cin >> mhs.alamat.kota;
-
-
+    cout << " \nDesa : " << mhs.alamat.desa;
+    cout << " \nKota : " << mhs.alamat.kota;
 
 
 
