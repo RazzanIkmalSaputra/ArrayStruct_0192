@@ -1,15 +1,7 @@
 
+    getline(cin, mhs.NIM);
 
-struct DetailAlamat {
-    string desa; //village
-    string kota;//city
-};
-
-struct mahasiswa {
-   
-    DetailAlamat alamat;
-    
-};
+    getline(cin, mhs.nama);
 
 
 
