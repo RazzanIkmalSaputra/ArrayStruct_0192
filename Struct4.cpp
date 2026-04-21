@@ -1,0 +1,3 @@
+
+    Mahasiswa mhs[3];
+ 
